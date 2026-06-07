@@ -1,0 +1,2 @@
+# THUM
+personal ai projects
